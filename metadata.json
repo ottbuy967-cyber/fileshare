@@ -1,0 +1,8 @@
+
+{
+  "name": "SwiftShare Pro",
+  "description": "A high-performance file sharing application with QR-based transfers and AI-powered file insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
